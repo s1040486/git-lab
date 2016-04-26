@@ -43,5 +43,3 @@ int check1(char m)
   	for (int i = 0; i < LEN; i++) {
   		ret |= check1(output[i]);
   	}
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
